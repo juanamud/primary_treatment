@@ -1,102 +1,89 @@
 import streamlit as st
 
-st.set_page_config(page_title="PTAR Barbosa - Diseño", layout="wide", page_icon="🌊")
+st.set_page_config(page_title="Diseño PTAR Barbosa", layout="wide", page_icon="📐")
 
-import bsm2_python.bsm2.init.asm1init_bsm2 as asm1init
-import bsm2_python.bsm2.init.primclarinit_bsm2 as primclarinit
-from bsm2_python.bsm2.primclar_bsm2 import PrimaryClarifier
+st.title("📐 Dimensionamiento de Laguna Anaerobia Primaria")
+st.subheader("Proyecto: Municipio de Barbosa, Antioquia")
 
-# --- CONFIGURACIÓN DE LA PÁGINA ---
-st.title("🌊 PTAR Municipio de Barbosa, Antioquia")
-st.markdown("### Simulación de Tratamiento Primario (Versión Estática)")
-
-# --- 1. DATOS ESTÁTICOS DE BARBOSA ---
-# ⚠️ REEMPLAZA ESTOS NÚMEROS CON LOS VALORES EXACTOS DE TU EXCEL ⚠️
-escenarios_caudal = {
-    "Año Actual - Caudal Medio Diario (Qmd)": 4500.0,
-    "Año Actual - Caudal Máximo Horario (QMH)": 9200.0,
-    "Año Proyección - Caudal Medio Diario (Qmd)": 6800.0,
-    "Año Proyección - Caudal Máximo Horario (QMH)": 14000.0,
-}
-
-# --- 2. BARRA LATERAL: PARÁMETROS DE DISEÑO ---
-st.sidebar.header("🔧 Escenarios de Diseño")
-escenario_seleccionado = st.sidebar.selectbox(
-    "Seleccionar Escenario de Proyección", list(escenarios_caudal.keys())
-)
-caudal_diseno = escenarios_caudal[escenario_seleccionado]
-
-st.sidebar.metric("Caudal a simular (m³/d)", f"{caudal_diseno:,.1f}")
-
-st.sidebar.subheader("Caracterización Fisicoquímica")
-st.sidebar.write("*(Basado en datos preliminares de Barbosa)*")
-# ⚠️ REEMPLAZA EL 250.0 CON EL VALOR REAL DE SST DE TU EXCEL ⚠️
-ss_entrada = st.sidebar.number_input(
-    "Sólidos Suspendidos (SST) (mg/L)", value=250.0, step=10.0, min_value=0.0
-)
-
-# Parámetro de diseño del tanque
-vol_clarificador = st.sidebar.slider(
-    "Volumen del Clarificador (m³)", min_value=500.0, max_value=5000.0, value=1500.0, step=100.0
-)
-
-# --- 3. LÓGICA DEL SIMULADOR BSM2 ---
-# Inicializamos el Clarificador Primario
-clarificador = PrimaryClarifier(
-    vol_clarificador,
-    primclarinit.YINIT1.copy(),
-    primclarinit.PAR_P,
-    asm1init.PAR1,
-    primclarinit.XVECTOR_P,
-    tempmodel=False,
-    activate=False,
-)
-
-# Vector de entrada (Influyente)
-input_vector = primclarinit.YINIT1.copy()
-input_vector[14] = caudal_diseno  # Caudal Q
-input_vector[13] = ss_entrada  # TSS
-
-# Ejecutar simulación estática (1 paso de tiempo)
-timestep_d = 1.0 / (24.0 * 60.0)  # 1 minuto
-output_underflow, output_overflow, _ = clarificador.output(timestep_d, 0.0, input_vector)
-
-# --- 4. RESULTADOS Y ANÁLISIS ---
-st.header("📊 Comportamiento del Clarificador")
-
-# Cálculos de resultados
-tss_salida = output_overflow[13]
-eficiencia = (1 - (tss_salida / ss_entrada)) * 100 if ss_entrada > 0 else float("nan")
-caudal_lodos = output_underflow[14]
-
-col1, col2, col3 = st.columns(3)
-
-with col1:
-    st.metric("TSS en Agua Clarificada", f"{tss_salida:.2f} mg/L")
-    if ss_entrada > 0:
-        st.caption(
-            f"Remoción de SST: {eficiencia:.1f}% (respecto a {ss_entrada:.0f} mg/L en entrada). "
-            "Agua que pasa al tratamiento secundario."
+# --- 1. DATOS DE ENTRADA (De tu Excel) ---
+with st.expander("📥 Datos de Caracterización y Caudal", expanded=True):
+    col_a, col_b = st.columns(2)
+    with col_a:
+        # Aquí irían los datos fijos que sacaste del Excel
+        caudal_m3_dia = st.number_input(
+            "Caudal de Diseño (Q) [m³/día]", value=5200.0, min_value=0.0, step=100.0
         )
-    else:
-        st.caption(
-            "Indique SST de entrada mayor que 0 para calcular la remoción. "
-            "Agua que pasa al tratamiento secundario."
+        dqo_entrada = st.number_input(
+            "DQO de entrada (S0) [mg/L]", value=480.0, min_value=0.0, step=10.0
         )
+    with col_b:
+        temp_ambiente = st.slider("Temperatura promedio (°C)", 15, 30, 22)
 
-with col2:
-    st.metric("Caudal de Lodos al Digestor", f"{caudal_lodos:.2f} m³/d")
-    st.caption("Caudal por la tubería de fondo (Underflow)")
+# --- 2. CRITERIOS DE DISEÑO (Parámetros del Profesor/RAS) ---
+st.sidebar.header("⚙️ Criterios de Diseño")
+# El RAS recomienda entre 100 y 300 g/m3*d para lagunas anaerobias
+carga_diseno = st.sidebar.select_slider(
+    "Carga Orgánica Volumétrica (λv) [g/m³·d]",
+    options=[100, 150, 200, 250, 300],
+    value=200,
+)
+profundidad_diseno = st.sidebar.slider("Profundidad Útil (H) [m]", 2.5, 5.0, 3.5)
+relacion_lw = st.sidebar.slider("Relación Largo:Ancho (L:W)", 1.0, 4.0, 2.0)
 
-with col3:
-    # Tiempo de retención hidráulica (TRH) en horas
-    trh_horas = (vol_clarificador / caudal_diseno) * 24
-    st.metric("Tiempo de Retención (TRH)", f"{trh_horas:.2f} h")
-    st.caption("Idealmente entre 1.5 y 2.5 horas")
+# --- 3. CÁLCULOS DE INGENIERÍA ---
+if caudal_m3_dia > 0 and carga_diseno > 0 and profundidad_diseno > 0:
+    # Volumen requerido (V = Q * S0 / λv)
+    # Nota: mg/L y g/m³ son equivalentes en este contexto
+    volumen_req = (caudal_m3_dia * dqo_entrada) / carga_diseno
+    area_req = volumen_req / profundidad_diseno
+    ancho = (area_req / relacion_lw) ** 0.5
+    largo = ancho * relacion_lw
+    trh_dias = volumen_req / caudal_m3_dia
+else:
+    volumen_req = area_req = ancho = largo = trh_dias = 0.0
 
+# --- 4. PRESENTACIÓN DEL DISEÑO ---
+st.header("📋 Memoria de Cálculo")
+st.caption(
+    f"Condiciones de partida: Q = {caudal_m3_dia:,.0f} m³/d · S0 = {dqo_entrada:.0f} mg/L · "
+    f"T ≈ {temp_ambiente} °C (referencia para criterios de operación y textos de memoria)."
+)
+
+res1, res2, res3 = st.columns(3)
+res1.metric("Volumen Total", f"{volumen_req:,.2f} m³")
+res2.metric("Área Requerida", f"{area_req:,.2f} m²")
+res3.metric("TRH Resultante", f"{trh_dias:.2f} días")
+
+st.subheader("📐 Dimensiones Finales")
+d1, d2, d3 = st.columns(3)
+d1.write(f"**Ancho (W):** {ancho:.2f} m")
+d2.write(f"**Largo (L):** {largo:.2f} m")
+d3.write(f"**Profundidad (H):** {profundidad_diseno:.2f} m")
+
+# --- 5. VALIDACIÓN TÉCNICA ---
 st.divider()
-st.info(
-    "💡 **Tip de Operación:** Cambia el escenario a 'Caudal Máximo Horario' o baja el volumen del "
-    "clarificador en la barra lateral. Verás cómo el TRH cae, lo que significa que el agua pasa "
-    "demasiado rápido y la eficiencia of sedimentación disminuye."
-)
+if caudal_m3_dia <= 0:
+    st.warning("Indica un caudal de diseño mayor que 0 para obtener dimensiones y TRH.")
+elif 1.0 <= trh_dias <= 5.0:
+    st.success("✅ El TRH cumple con los rangos típicos para lagunas anaerobias primarias (1-5 días).")
+else:
+    st.error("⚠️ El TRH está fuera de rango. Ajusta la carga de diseño o la profundidad.")
+
+# Representación visual simple (escala en pantalla, proporción L:W real)
+st.write("**Vista en Planta (Esquema):**")
+if largo > 0 and ancho > 0:
+    max_px = 420
+    escala = max_px / max(largo, ancho)
+    w_px = max(40, int(largo * escala))
+    h_px = max(40, int(ancho * escala))
+    st.markdown(
+        f"""
+<div style="width:{w_px}px; height:{h_px}px; background-color:#4e6e5d; border:2px solid #ccc;
+  display:flex; align-items:center; justify-content:center; color:white; font-size:14px;">
+    {largo:.1f} m × {ancho:.1f} m
+</div>
+""",
+        unsafe_allow_html=True,
+    )
+else:
+    st.caption("El esquema aparecerá cuando el caudal y los criterios permitan calcular dimensiones.")
