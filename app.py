@@ -98,5 +98,5 @@ st.divider()
 st.info(
     "💡 **Tip de Operación:** Cambia el escenario a 'Caudal Máximo Horario' o baja el volumen del "
     "clarificador en la barra lateral. Verás cómo el TRH cae, lo que significa que el agua pasa "
-    "demasiado rápido y la eficiencia de sedimentación disminuye."
+    "demasiado rápido y la eficiencia of sedimentación disminuye."
 )
