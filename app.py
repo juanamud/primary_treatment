@@ -58,7 +58,7 @@ st.set_page_config(
 # ============================================================
 DATOS_BARBOSA = {
     "municipio": "Barbosa, Antioquia",
-    "anio_actual": 2025,
+    "anio_actual": 2026,
     "horizonte_diseno": 25,
     "poblacion_actual": 55_000,
     "tasa_crecimiento": 1.4,
@@ -354,10 +354,10 @@ def disenar_laguna_anaerobia(Q, DBO, DQO, SST, Coli, T,
 
 
 def disenar_reactor_uasb(Q, QMH, DBO, DQO, SST, Coli, T,
-                           TRH_h=None, H=5.0, LW=1.0,
-                           forma="Circular", n_paralelo=1,
-                           Y_acid=0.15, Y_metano=0.03,
-                           ef_dbo=70, ef_dqo=70, ef_sst=70, ef_coli=90):
+                TRH_h=None, H=5.0, LW=1.0,
+                forma="Circular", n_paralelo=1,
+                Y_acid=0.15, Y_metano=0.03,
+                ef_dbo=70, ef_dqo=70, ef_sst=70, ef_coli=90):
     if TRH_h is None:
         TRH_h = trh_uasb_por_temperatura(T)
     TRH_d = TRH_h / 24

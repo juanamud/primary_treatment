@@ -1,0 +1,1348 @@
+                                                        ¿Qué son las lagunas de
+                                                            estabilización?
+                                                      Son uno de los métodos más simples de tratamiento de
+                                                      aguas residuales, se clasifican como un método
+                                                      extensivo y se fundamentan en los principios básicos de
+                                                      estabilización de la materia orgánica carbonácea, que
+                                                      ocurren en la naturaleza.
+
+
+                                                      Existen varios tipos de sistemas de lagunas de
+                                                      estabilización con diferentes niveles de requerimientos
+                                                      de área y complejidad operacional.
+
+Antigua laguna anaerobia Relleno Sanitario Pradera-
+           Empresas Varias de Medellín
+           Foto: Francisco Molina Pérez
+                                Tipos de lagunas de estabilización
+
+          Sistema                                                              Descripción
+
+                             Son estanques muy someros (de 0,3 a 0,50 m), que permiten una alta producción de algas, garantizando
+Laguna aeróbica
+                             condiciones aerobias en todo el cuerpo de agua.
+
+                             Permiten la estabilización de DBO soluble, utilizando como suministro de O2 las algas fotosintéticas. Lagunas
+Laguna facultativa
+                             someras de 1,0 a 2,0 m.
+
+                             Permiten la remoción de DBO suspendida y DBO soluble por digestión anaerobia (50 a 70%), requiere de
+Laguna anaerobia
+                             postratamiento (laguna facultativa). Lagunas profundas (2,5 a 5 m).
+
+                             Es similar a la laguna facultativa, se suministra O2 adicional por aireación mecánica. La mezcla suministrada no
+Laguna facultativa aireada
+                             es suficiente para resuspender el lodo sedimentado.
+
+                             Permite una aireación, la mezcla fuerte y el aumento en la eficiencia de remoción de DBO; la aireación
+Laguna aireada
+                             suministrada resuspende los sólidos sedimentados, por lo tanto la carga de SS en el efluente es alta,
+completamente mezclada
+                             generalmente se requiere de una laguna de sedimentación, similar al proceso de lodos activados.
+
+Laguna de maduración         Se utiliza para remoción de patógenos y para el postratamiento.
+  Se recomiendan
+para clima caliente y
+países en desarrollo
+      cuando:
+
+•   Se cuenta con suficiente espacio (tierra)
+•   Se tiene un clima favorable (calor y
+    luminosidad)
+•   Se opta por una operación simple que
+    requiera una demanda baja de equipos
+    y de energía
+
+                                                   PTAR La Ceja
+                                                Fuente: Google Earth
+Tipos de lagunas de estabilización: otras clasificaciones
+De acuerdo con el lugar que ocupan las lagunas respecto a otros procesos, se pueden clasificar en primarias,
+secundarias y de maduración o pulimiento.
+
+De acuerdo con la secuencia de unidades, se clasifican en lagunas en serie o en paralelo, también se pueden utilizar
+combinaciones de los últimos tipos.
+Tipos de lagunas de estabilización
+  Combinación reactor UASB lagunas de pulimiento (maduración)
+Requisitos generales de diseño lagunas de estabilización, según la RAS 2017
+Requisitos generales de diseño lagunas de estabilización, según la RAS 2017
+       Características principales de las lagunas de estabilización
+
+                                                                        Sistema de lagunas
+
+  Categoría         Parámetro                                                           Facultativa mezcla   Anaeróbica +
+                                                      Anaerobia         Facultativa
+                                    Facultativa                                            completa +        Facultativa +
+                                                     + Facultativa       aireada
+                                                                                         sedimentador 2°     Maduración
+
+                                                                                              75-85              75-85
+                      DBO             75-85              75-85             75-85
+                                                                                              65-80              70-83
+                      DQO             65-80              65-80             65-80
+                                                                                              80-87              73-83
+                        SS            70-80              70-80             70-80
+                                                                                               <30               50-65
+ Eficiencia (%)        NTK             <50                <50               <30
+                                                                                               <30               50-65
+                         N             <60                <60               <30
+                                                                                               <35                <50
+                         P             <35                <35               <35
+                                                                                              90-99          99,9-99,9999
+                    Coliformes        90-99              90-99             90-99
+
+                                      2,0-4,0           1,2-3,0           0,25-0,5           0,2-0,4            3,0-5,0
+                   Área (m2/hab)
+Requerimientos
+                  Energía (W/hab)
+                                        ≈0                ≈0              1,2-2,0            1,8-2,5              ≈0
+                   Construcción        15-30             12-30             20-35              20-35              20-40
+Costo (US/hab)
+                      O&M             0,8-1,5           0,8-1,5           2,0-3,5            2,0-3,5            1,0-2,0
+
+
+                                          Fuente: Von Sperling y Chernicharo (2005)
+Parámetros típicos de diseño de las lagunas de estabilización
+                                                                                  Tipo de laguna
+
+      Parámetro de diseño                                                                                Mezcla
+                                                                                    Facultativa
+                                                Anaerobia         Facultativa                           completa   Maduración
+                                                                                     aireada
+                                                                                                         aireada
+
+             TRH (d)                               3-6               15-45                5-10             2-4          *
+       Ls (kg DBO5/ha-d)                            -              100-350                  -               -           -
+       Lv (kg DBO5/m3-d)                        0,10-0,35              -                    -               -           -
+              H (m)                              3,0-5,0            1,5-2,0              2,5-4,0         2,5-4,0     0,8-1,2
+               L/W                                 1-3                2-4                  2-4             1-2         >10
+
+  K mezcla completa 20 °C (1/d)                                    0,25-0,40            0,60-0,80        1,0-1,5        -
+                                                    -
+     Ɵ (coef. corrección T)                                        1,05-1,85              1,035           1,035         -
+    K flujo disperso 20 °C (1/d)                    -              0,13-0,17                -               -           -
+       Ɵ (coef. corrección T)                       -                1,035                  -               -           -
+ DBO part. efl. (mg DBO5/mg SS)                     -               0,3-0,4              0,3-0,4         0,3-0,6        -
+Requerimiento O2 (Kg O2/kg DBO5)                    -                  -                 0,8-1,2         1,1-1,4
+
+                         * Depende de la forma y de la eficiencia requerida en remoción de coliformes
+                                            Fuente: Von Sperling y Chernicharo (2005)
+          Lagunas facultativas: generalidades
+
+Básicamente, las lagunas facultativas utilizan un tiempo de retención hidráulico (TRH) alto para
+permitir que los procesos naturales de estabilización de la materia orgánica ocurran. El requerir
+TRH altos significa que se necesita una extensión de tierra importante, de 2 a 4 m2/habitante.
+                      Lagunas facultativas: generalidades
+En la laguna facultativa, generalmente, se encuentran tres zonas diferentes:
+
+
+• La zona aerobia: localizada en la parte superior de la laguna, en la cual las bacterias oxidan la DBO disuelta,
+    utilizando el oxígeno generado a través de la fotosíntesis de las algas.
+•   La zona anóxica: donde las concentraciones de oxígeno molecular son muy bajas, pero se cuenta con otros
+    aceptores de electrones sulfatos y nitratos.
+•   La zona anaerobia: se da debido a la acumulación de DBO, en forma suspendida (SS) en el fondo de la laguna.
+                      Lagunas facultativas: generalidades
+
+
+
+
+Los principales grupos de algas que se encuentran en las lagunas facultativas son: algas verdes y cianobacterias. La
+presencia de algas, generalmente, se mide a partir de la clorofila a, pigmento presente en las plantas. Las algas
+suministran el oxígeno requerido por las bacterias.
+  https://www.youtube.com/watch?v=7DpDXeMoIhA ( Tener cuidado que la ayuda puede convertirse en un problema)
+                                   Lagunas facultativas: generalidades
+
+                  •    La fotosíntesis de las algas, durante las horas del día, depende de la radiación de la luz, en ese
+                       período ellas convierten la energía solar en biomasa. Durante las 24 horas las algas respiran, oxidan la
+                       materia orgánica producida y utilizan la energía para crecer, reproducirse, movilizarse y cumplir otras
+                       funciones vitales.
+                  •    Las algas producen 15 veces más oxígeno (fotosíntesis) del que consumen (respiración).
+
+
+
+
+Nota: La oxipausa es la zona de transición en la columna de agua de una laguna o cuerpo superficial donde la producción de oxígeno
+(fotosíntesis de algas) se equilibra con el consumo de oxígeno (respiración de algas, bacterias y otros organismos)
+                                        Lagunas facultativas: generalidades
+
+Estratificación de zonas:
+
+
+En la superficie, hay oxígeno
+disponible gracias a la fotosíntesis
+de las algas y a la difusión desde la
+atmósfera (el viento ayuda con la
+aireación superficial).
+
+
+En la zona intermedia, bacterias
+aeróbicas y algas conviven:
+
+
+Las algas producen oxígeno (O₂) y
+biomasa a partir de CO₂ y luz solar.
+
+
+Las bacterias consumen oxígeno y
+degradan materia orgánica,
+liberando CO₂ y nutrientes que
+alimentan nuevamente a las algas.
+
+
+En el fondo (sludge layer), donde
+no llega la luz ni el oxígeno,
+predominan procesos anaerobios:
+digestión de sólidos, liberación de
+nutrientes y gases.
+
+
+
+
+                                             Adaptado de: Power and Water Corporation (2011)
+Lagunas facultativas: ciclo día-noche
+                  Lagunas facultativas: generalidades
+
+
+Fotosíntesis                   Durante el día, en las horas de mayor actividad fotosintética, el pH
+                               puede alcanzar valores cercanos a 9, en estas condiciones pueden
+• Consumo de CO2               ocurrir los siguientes fenómenos:
+• El ion bicarbonato (HCO3-)
+    se convierte en OH-
+•   pH aumenta                 • Conversión del ion amonio (NH4+) a amoniaco (NH3) (tóxico) que
+                                 tiene tendencia a transferirse a la atmósfera.
+Respiración                    • Precipitación de los fosfatos.
+                               • Conversión de los sulfuros (H2S) a ion bisulfuro (HS-),
+• Producción de CO2              disminuyendo el problema de olor.
+• El ion bicarbonato (HCO3-)
+    es convertido en H+
+•   El pH disminuye
+Lagunas facultativas: generalidades
+ Influencia de los principales factores ambientales externos
+
+
+          Factor                             Influencia
+
+    Radiación solar        •    Velocidad de la fotosíntesis
+
+
+                           •    Velocidad de la fotosíntesis
+                           •    Tasa de transformación bacterial
+    Temperatura
+                           •    Solubilidad y transferencia de gases
+                           •    Condiciones de mezcla
+
+
+                           •    Condiciones de mezcla
+    Viento
+                           •    Reaireación atmosférica
+
+
+                   Fuente: Von Sperling y Chernicharo (2005)
+                      Lagunas facultativas: generalidades
+                                               Cuando la laguna no se mezcla bien, se forma una termoclina (una capa que separa el
+                                               agua caliente en la superficie del agua fría en el fondo).
+                                               https://www.youtube.com/shorts/PwrGmGQ73m8
+
+
+Mezcla y estatificación térmica
+
+
+La mezcla en las lagunas de estabilización,
+se     debe,   fundamentalmente,    a   los
+mecanismos de viento y diferencia de
+temperatura. Es importante en el desempeño
+de la laguna. Una buena mezcla genera:
+
+• Minimización de los cortos circuitos
+    hidráulicos
+• Minimización de la presencia de zonas
+    muertas y generación de olores
+•   Distribución vertical homogénea de la
+    DBO, bacterias, algas y oxígeno
+                                                          Lagunas facultativas: generalidades
+     Para maximizar la influencia del viento, las lagunas no deben estar rodeadas de obstáculos que puedan obstruir su ingreso. Se
+     debe evaluar este punto cuando se decide rodear las lagunas de setos o franjas de árboles.
+
+     Relación entre la temperatura del aire y la del agua
+
+     En una ecuación empírica, encontrada para cinco (5) lagunas (Yañez, 1993), generalmente, se hace el diseño considerando la
+     temperatura promedio del agua del mes más frio. En Colombia, al no tener estaciones la temperatura depende,
+     fundamentalmente, del ciclo día-noche.
+
+
+                                                                    Tagua = 12,7 + 0,54  Taire
+     Generalmente, la temperatura del agua en la laguna es 2 o 3 °C más alta que la temperatura del aire, en el mes más frio.
+Nota: La ecuación que mencionas (T_agua = 12,7 + 0,54·T_aire) es un modelo empírico basado en ciertos sitios (cinco lagunas según Yáñez). Podría tener limitaciones cuando se aplica en otros climas o condiciones.
+
+
+Estudios recientes como el de Montoya & Pocasangre muestran que esa relación puede variar: el coeficiente (“pendiente” 1,48 en el estudio) es bastante distinto de 0,54, lo que indica que la relación entre Ta y T_agua depende fuertemente del cl
+profundidad, mezcla, radiación solar, etc.
+                                                                                    Fuente: Von Sperling y Chernicharo (2005)
+También apuntan que la idea “el agua siempre es 2-3 °C más caliente que el aire” no es universal: en varios momentos del día los sensores mostraron lo contrario.https://revistas.usac.edu.gt/index.php/asa/article/view/1202
+                                     Lagunas facultativas: criterios de diseño
+
+     Los criterios principales son:
+
+
+     •       Carga orgánica superficial: este es el principal criterio de diseño en las lagunas facultativas, se basa en el principio
+             de que es necesaria una superficie de exposición al sol para que el proceso de fotosíntesis pueda llevarse acabo.
+     •       Profundidad: está asociada a los fenómenos físicos y biológicos que ocurren en la laguna.
+     •       Tiempo de retención hidráulica: no es directamente un parámetro de diseño, se utiliza para verificar el
+             dimensionamiento de la laguna. Está asociado con el principio básico de que se requiere de un tiempo mínimo para
+             que los microorganismos estabilicen la materia orgánica.
+     •       Geometría de la laguna: la relación largo-ancho (L/W) es un criterio importante, ya que afecta la hidráulica de la
+             laguna, dado que se puede acercar a mezcla completa o flujo pistón, dependiendo ella.
+Ejemplos de criterios de diseño aplicado:
+
+
+1. https://www.researchgate.net/profile/Daniel-Castelblanco-2/publication/374257918_Lagunas_facultativas_Facultad_de_Ingenieria_Civil_Universidad_Santo_Tomas_Tunja/links/6515a8c2b0df2f20a2f666e4/Lagunas-facultativas-Facultad-de-Ingen
+Civil-Universidad-Santo-Tomas-Tunja.pdf
+2. https://www.researchgate.net/profile/Juana-Goyeneche/publication/374292235_ANALISIS_COMPARATIVOS_DE_LAS_CARACTERISTICAS_DE_LAGUNAS_FACULTATIVAS/links/6557d33e3fa26f66f40d4c3e/ANALISIS-COMPARATIVOS-DE-LAS-
+CARACTERISTICAS-DE-LAGUNAS-FACULTATIVAS.pdf
+
+
+                                            La mayoría de los rangos para los parámetros de diseño están dados por la
+                                                             experiencia, por lo tanto son empíricos.
+Requisitos de diseño para lagunas de estabilización facultativas
+                           RAS 2017
+         Lagunas facultativas: criterios de diseño
+Carga orgánica superficial: el área de la laguna se puede calcular de acuerdo con la
+relación carga orgánica/carga orgánica superficial seleccionada.
+
+
+
+
+                                   A = L / Ls
+Donde:
+A: área en ha
+L: carga orgánica que recibe la laguna (soluble + particulada) en kg DBO5/d
+Ls: carga orgánica superficial utilizada en kg DBO5/ha-d
+
+El valor de Ls depende de la temperatura local, la latitud, la exposición solar, la altitud y otros
+parámetros relacionados con la localización.
+                               Lagunas facultativas: criterios de diseño
+
+Para las regiones tropicales y subtropicales se puede adoptar la siguiente recomendación:
+
+• Regiones sin estaciones o con invierno cálido y alto brillo solar:
+                         Ls = 240 a 350 kg DBO5/ha-d
+                                                                                                                                                     Existen otros modelos que puedn consultar que no
+                                                                                                                                                     necesariamente están en función del área:
+
+
+
+• Regiones con invierno y brillo solar moderados:
+                                                                                                                                                     -Modelling of the loading rate in facultative wastewater
+                                                                                                                                                     stabilization ponds and the assessment of organic
+                                                                                                                                                     matter decline
+
+                          Ls = 120 a 240 kg DBO5/ha-d                                                                                                -Cortés-Martínez, F., Treviño-Cansino, A., Espinoza-
+                                                                                                                                                     Fraire, A. T., Sáenz-López, A., Alcorta-García, M. A.,
+                                                                                                                                                     González-Barrios, J. L., ... & Cruz-Acosta, F. J. D. L. (2017).
+                                                                                                                                                     Optimización en el diseño de un sistema de tratamiento
+
+• Regiones con invierno frio y brillo solar bajo:                                                                                                    de aguas residuales integrado por tres lagunas de
+                                                                                                                                                     estabilización. Tecnología y ciencias del agua, 8(4), 139-
+
+
+                          Ls = 100 a 180 kg DBO5/ha-d                                                                                                155.
+
+
+
+
+Mara (1997), propone una ecuación para calcular Ls a partir de la temperatura promedio del mes más frio, definida en la
+ecuación como T.
+
+
+
+                                                             Ls = 350  (1,107 − 0,002  T ) (T − 25)
+A menor temperatura:   la actividad biológica se reduce significativamente, lo que implica menor capacidad de tratamiento ( condición más crítica)
+           Lagunas facultativas: criterios de diseño
+
+•   Profundidad: se recomienda un valor de profundidad H de 1,5 a 2,0 m para las lagunas facultativas.
+
+•   Tiempo de retención hidráulico: el tiempo de retención hidráulico (TRH) está asociado al caudal (Q). El
+    caudal promedio resulta de promediar el de entrada y el de salida a la laguna.
+
+
+           Q promedio = (Qentrada + Qsalida ) / 2
+           Qsalida = Qentrada + Q precipitación − Qevaporación − Qinf iltración
+Generalmente los términos Qprecipitación, Qevaporación y Qinfiltración se ignoran. En algunas ocasiones se debe
+realizar el cálculo, dependiendo de la magnitud de los caudales de precipitación, evaporación e infiltración.
+   L/W entre 2 y 4 → comportamiento típico de lagunas facultativas → flujo disperso.
+
+
+   L/W < 2 → tiende a mezcla completa.
+
+
+   L/W > 5–6 → tiende a acercarse más al flujo pistón.
+
+
+
+
+                                   Lagunas facultativas: criterios de diseño
+
+                        En lagunas primarias de aguas residuales domésticas se recomienda un TRH entre 15 y 45 días.
+
+                        •     Geometría de la laguna (L/W): la relación L/W influye sobre la hidráulica de la laguna. Las
+                              lagunas esbeltas se acercan al comportamiento de flujo a pistón, mientras que las lagunas
+                              simétricas se comportan como mezcla completa.
+
+                        El modelo de mezcla completa es más adecuado cuando existen sobrecargas orgánicas o
+                        presencia de tóxicos ya que se asume la mezcla completa del contaminante con toda el agua
+                        presente en el volumen de la laguna. De otro lado, el modelo de flujo pistón es más eficiente en la
+                        transformación de la materia orgánica pero puede ser susceptible a sobrecargas en la porción de
+                        entrada a la laguna.
+
+                        Para las lagunas facultativas se recomienda una relación L/W de 2 a 4.
+
+
+Flujo pisto; Pueden ser más sensibles a sobrecargas en la entrada, porque no hay mucha mezcla para diluir los contaminantes o tóxicos.
+
+
+Requieren mayor espacio en longitud, lo que puede aumentar el área necesaria
+   Lagunas facultativas: criterios de diseño
+Se tienen las siguientes recomendaciones respecto a la hidráulica de las lagunas facultativas:
+
+
+
+
+       Tipo de laguna
+                                                    Recomendación
+         facultativa
+                               Generalmente no se diseñan con hidráulica tipo flujo pistón
+ Primarias                     (L/W altas) para evitar posibles sobrecargas en la zona de
+                               entrada
+ Secundarias                   Son más flexibles en la selección de la relación L/W
+
+                               Se diseñan, generalmente, con flujo a pistón con el fin de
+ Maduración
+                               realizar en forma más eficiente la remoción de patógenos
+            Lagunas facultativas: estimación de la
+               concentración de DBO efluente
+
+Influencia de la hidráulica del reactor
+
+
+La remoción de la DBO sigue una ecuación de primer orden (la tasa de conversión es directamente
+proporcional a la concentración de sustrato). En estas condiciones, la hidráulica del reactor influye en la
+eficiencia del sistema.
+
+Los dos modelos idealizados de hidráulica de reactores son: flujo pistón y mezcla completa.
+El modelo intermedio entre flujo pistón y mezcla completa, denominado flujo disperso, es el modelo que
+realmente ocurre en la realidad.
+Lagunas facultativas: estimación de la concentración de DBO efluente
+                       Ecuaciones para el cálculo de las concentraciones de DBO efluente:
+
+                    Régimen hidráulico                                           Ecuación
+   Flujo pistón                                          S=So.e-k.TRH
+   Mezcla completa (una laguna)                          S=So/(1+k.TRH)
+   Mezcla completa (lagunas equivalentes en serie)       S=So/(1+k.TRH/n)n
+   Flujo disperso                                        S=So.4.a.e0,5.d/(1+a)2.ea/2.d-(1-a)2.e-a/2d
+                                                         a= (1+4.k.TRH.d)0,5
+
+
+   So=concentración de entrada de DBO5 total (mg/L)     TRH= tiempo de retención hidráulico en el sistema (d)
+
+   S= concentración de salida de DBO5 soluble (mg/L)    n= número de lagunas en serie
+
+   K= coeficiente de remoción de DBO5 (d-1)             d= número de dispersión (adimensional)
+
+                                         Realizar actividad 3. Laguna facultativa
+                             Lagunas facultativas: estimación de la
+                                concentración de DBO efluente
+
+La DBO de entrada está compuesta por la DBO soluble y la DBO particulada. Las ecuaciones anteriores permiten estimar
+la concentración de DBO5 soluble presente en el efluente, queda restando, por lo tanto, estimar la DBO5 particulada en el
+efluente.
+
+La DBO5 particulada presente en el efluente corresponde fundamentalmente a biomasa de las algas. De acuerdo con
+Mara (1995), entre el 60% y el 90% de los SS del efluente corresponden al aporte de algas. Una relación que se puede
+utilizar para calcular el aporte de DBO5 por los SS es la siguiente:
+
+
+
+                                                     1 mg SS/L = 0,3 a 0,4 mg DBO5 / L
+  Esto significa que cada miligramo de sólidos suspendidos (biomasa de algas) aporta entre 0,3 y 0,4 mg de DBO₅ en el efluente.
+
+
+
+
+Desafortunadamente, no existe un modelo para estimar la concentración de SS en el efluente de una laguna facultativa,
+la experiencia indica que dicha concentración puede variar de 60 a 100 mg SS/L.
+                       Lagunas facultativas: estimación de la
+                          concentración de DBO efluente
+En el diseño de lagunas facultativas,
+generalmente, se utiliza para estimar la
+eficiencia de transformación de DBO en el
+modelo de mezcla completa, por las                   Tipo de laguna facultativa           K (d-1) (20 °C)
+siguientes razones:
+                                                    Primaria                               0,30 a 0,40
+• Es sencillo.                                      Secundaria (recibe el efluente
+• Las lagunas facultativas, generalmente, no        de una laguna o reactor                0,25 a 0,32
+    son esbeltas, por lo tanto, su hidráulica se    previos)
+    asemeja más a mezcla completa.
+•   La mayoría de los valores reportados por
+    la literatura para el coeficiente de remoción                   S0
+    de DBO se basan en el modelo de mezcla
+    completa.
+                                                        S=
+                                                               1 + k  TRH
+                                                                                     kT = k 20C  (T − 20)
+•   No se requiere el cálculo del número de
+    dispersión para realizar la estimación.
+                      Lagunas facultativas: estimación de la
+                         concentración de DBO efluente
+En la realidad, el flujo que se presenta en una laguna de estabilización, no corresponde totalmente al modelo de mezcla
+completa, sino a un modelo intermedio entre mezcla completa y flujo a pistón, el cual se denomina flujo disperso.
+
+El coeficiente k para flujo disperso se puede estimar utilizando la ecuación propuesta por Vidal (1983):
+
+
+                                      k = 0,091 + 2,05 10 −4  Ls                    Von Sperling (2005) reporta:
+
+
+
+                                                                                      Lagunas con L/W ≈ 2–4 → flujo disperso con   𝑑≈0,2 -0,4
+                                                                                      Lagunas más largas (L/W > 6) → comportamiento más cercano a pistón,   𝑑<0,2
+                                                                                      Lagunas anchas (L/W < 2) → más mezcla completa,    𝑑>0,5
+Donde Ls es la carga orgánica superficial en kg DBO5/ha-d
+
+La alternativa más sencilla de estimar el número de dispersión es la ecuación propuesta por von Sperling (1999):
+
+
+               d = 1 /( L / W )
+                                                                       S 0  4  e1/( 2d )
+                                                     S=
+          a = 1 + 4  k  TRH  d                       (1 + a) 2  e a /( 2d ) − (1 − a) 2  e − a /( 2d )
+                     Lagunas facultativas: estimación de la
+                        concentración de DBO efluente
+Relaciones entre los coeficientes de remoción de DBO para los diferentes modelos hidráulicos
+
+En principio se asume que el valor del coeficiente k es el mismo para flujo pistón y mezcla completa, por ende se utiliza
+el mismo valor para flujo disperso.
+
+En muchas lagunas se estima el coeficiente k asumiendo un régimen de mezcla completa, en estos casos el valor de k
+encontrado está sobreestimado, debido a que el régimen hidráulico no es totalmente de mezcla completa. Por lo tanto,
+se deben utilizar estos coeficientes con cuidado.
+
+La corrección del coeficiente estimado depende de la geometría de la laguna, lo cual hace más compleja la corrección.
+Dado lo anterior, en la práctica normal, se asume que el coeficiente k es aplicable con el mismo valor a los diferentes
+modelos hidráulicos.
+
+                                                   ( S 0 / S − 1)
+                                                k=
+                                                       TRH
+Durante la digestión, los microorganismos liberan productos
+solubles:
+
+
+Ácidos grasos volátiles (AGV).
+                                 Lagunas facultativas: acumulación de lodo
+Alcoholes, amonio, fosfatos.
+
+
+Intermediarios orgánicos más simples que la DBO original.
+
+
+Estos compuestos son solubles y se difunden hacia la columna de
+agua
+
+
+                 La acumulación de lodo en el fondo de la laguna es el resultado de la sedimentación de los SS presentes en
+                 el influente, además de los microorganismos (algas y bacterias) producidos en la laguna.
+
+                 De acuerdo con la experiencia, la acumulación de lodo para lagunas localizadas e zonas tropicales (von
+                 Sperling and Chernicharo, 2005), es del orden de 0,03 a 0,08 m3/habitante-año. Esta es una carga baja y
+                 pueden transcurrir varios años sin necesidad de remover el lodo del fondo de la laguna.
+
+                 La digestión anaerobia de los lodos en el fondo pueden generar productos solubles que se incorporan a la
+                 columna de agua generando una carga adicional de DBO, este fenómeno ocurre principalmente en las
+                 épocas del año donde se alcanzan temperaturas más altas.
+
+                 Obviamente, la magnitud del impacto de esta DBO adicional, depende de la relación de la misma con la que
+                 DBO aporta el agua residual influente.
+          Lagunas facultativas: pulimiento del efluente
+
+Existen diferentes alternativas de pulimiento de los efluentes de una laguna facultativa. A continuación, se listan
+algunas de las más utilizadas:
+
+•   Filtro de rocas: consiste en un lecho poroso de rocas que busca atrapar las algas que son arrastradas por el
+    efluente de la laguna. Dichas algas se descomponen y se forma una biopelícula en la superficie de lar rocas que
+    actúa en la estabilización de las mismas. Se acostumbra trabajar con una carga hidráulica de 1 m3 efluente/m3
+    lecho-día. El diámetro de las rocas puede variar entre 50 y 200 mm.
+
+•   Filtros intermitentes de arena: lecho de arena de 0,15 a 1,0 m de espesor, con arena de tamaño efectivo entre
+    0,2 a 0,3 mm. Las cargas hidráulicas utilizadas varían entre 0,2 a 0,6 m3/m2-d.
+
+•   Lagunas de macrófitas: se utilizan, por lo general, jacintos de agua (Eichhornia crassipes). Esta opción optimiza
+    la remoción de SS, debido al sistema de sedimentación generado por las raíces de las plantas. Si embargo, se
+    deben tener precauciones para no contaminar la fuente receptora con las macrófitas, y es necesario planear la
+    infraestructura para disponer adecuadamente el material vegetal que se debe extraer periódicamente.
+              Lagunas facultativas: ejemplo
+   Dimensión de una laguna facultativa primaria a partir de los siguientes datos:
+
+   •       Población: 20.000 habitantes
+   •       Caudal de diseño: Qd: 3.000 m3/d
+   •       Concentración de DBO5: 350 mg/L
+   •       Temperatura: 23 °C (temperatura media en el mes más frio)
+
+
+   Solución:
+       1      Cálculo de la carga de DBO5
+
+
+
+                     3.000 m 3 / d  350 g/m 3
+Carga DBO5 = Q  C =                           = 1.050 kg/d
+                          1.000 g/kg
+            Lagunas facultativas: ejemplo
+2   Selección de la carga orgánica superficial, de acuerdo con la temperatura de 23 °C
+
+     Ls = 350  (1,107 − 0,002  23) ( 23− 25) = 311 kg DBO5 / ha − d
+
+3   Cálculo del área requerida (25 % adicional para circulación y otras instalaciones)
+
+
+                         3.000 m 3 / d  350 g/m 3
+    Carga DBO5 = Q  C =                           = 1.050 kg/d
+                              1.000 g/kg
+                     L   1.050 kg/d
+     A requerida =     =                 = 3,38 ha = 33.800 m 2
+                     Ls 311 kg/ - ha - d
+
+               A 𝑇𝑜𝑡𝑎𝑙 = 33.800m2 ∗ 1,25 = 42.250 m2
+            Lagunas facultativas: ejemplo
+4   Altura adoptada: 1,80 m
+
+
+5   Cálculo del volumen y TRH resultantes
+
+             V = A  H = 33.800 m 2 1,80 m = 60.840 m 3
+                          V  60.840 m 3
+                     TRH = =        3
+                                        = 20,3 d
+                          Q 3.000 m / d
+6   Adopción del coeficiente k de remoción de DBO5
+
+    Se adopta un k de 0,35 d-1 (20°C), que se debe corregir para la temperatura de 23 °C
+
+
+       kT = k 20C  (T − 20) = 0,35 1,05( 23− 20) = 0,41 d -1
+           Lagunas facultativas: ejemplo
+
+7   Estimación de la DBO5 soluble en el efluente
+
+
+                      So             350 mg/L
+           S=                  =                    = 38 mg/L
+                 (1 + k  TRH ) 1 + 0,41 d * 20,3 d
+                                          -1
+
+
+
+8   Estimación de la DBO5 particulada en el efluente
+
+    Asumiendo una concentración de SS en el efluente de 80 mg/L y considerando que
+    1 mg SS/L corresponde a 0,35 mg DBO5/L
+
+    Se obtiene
+
+
+        DBO5 particulada = 0,35 mg DBO5 / mg SS  80 mg SS/L = 28 mg DBO5 / L
+             Lagunas facultativas: ejemplo
+9    Estimación de la DBO5 total en el efluente y eficiencia de transformación de la DBO5
+
+
+        DBO5 total = DBO5 soluble+ DBO5 particulada = 38 mg/L + 28 mg/L = 66 mg/L
+
+                                                     So − S        350 − 68
+       Eficiencia transformación DBO5 =                     100 =          100 = 81 %
+                                                       S0            350
+
+10   Dimensiones de la laguna
+     Se selecciona una relación L/W=2,5 y se plantean 2 lagunas operando en paralelo
+
+               A = L  W = 2,5  W  W = 2,5  W 2
+              33.800 m 2 / 2 = 2,5  W 2
+              W = (16.900 m 2 / 2,5) = 82 m
+              L = 2,5  W = 205 m
+            Lagunas facultativas: ejemplo
+11   Área total requerida por el sistema
+
+
+       𝐴 𝑇𝑜𝑡𝑎𝑙 = 1,25 ⋅ 𝐴 = 1,25 ⋅ 33.800 m2 = 42.250 m2
+       Requerimiento de tierra percápita = 42.250 m2 /20.000 hab. = 2,1 m2 /ℎ𝑎𝑏.
+
+
+12   Acumulación de lodo
+
+
+       Acumulación por año = 0,05 m 3 / hab  20.000 hab = 1.000 m 3 / año
+                              1.000 m 3 / año
+       Espesor capa de lodo =                 = 0,029 m/año  3 cm/año
+                                33.800 m 2
+                                                                                                                              Salida (derecha)
+
+
+                                                                                                                              El efluente se extrae mediante una tubería con una cota
+
+
+
+
+                                                                Lagunas facultativas:
+                                                                                                                              300 mm por debajo del nivel del agua:
+
+
+                                                                                                                              Evita que sólidos flotantes (algas, espumas, grasas)
+                                                                                                                              salgan con el efluente.
+
+
+
+
+                                                             dispositivos entrada salida                                      Se asegura que la extracción sea desde una zona más
+                                                                                                                              “limpia” de la superficie.
+
+
+                                                                                                                              Además, se incluye un by-pass o “storm overflow”
+El afluente ingresa a la laguna a través de una tubería inclinada.
+                                                                                                                              (tormenta):
+
+
+La tubería descarga aproximadamente a la mitad de la profundidad (D/2):
+                                                                                                                              Sirve como vertedero de seguridad en caso de lluvias
+                                                                                                                              intensas o sobrellenado de la laguna.
+Evita que el chorro impacte directamente el fondo (lo que removería lodos).
+
+                                                                                                                              Evita el rebose descontrolado por los taludes.
+Reduce el riesgo de cortocircuitos hidráulicos (agua que entra y sale sin recorrer la laguna).
+
+
+Promueve una distribución más uniforme del flujo en la columna de agua.
+
+
+
+
+                                                                         Adaptado de de: Power and Water Corporation (2011)
+           Sistema laguna anaerobia: laguna facultativa
+
+ Las lagunas anaerobias constituyen una alternativa de tratamiento, donde las condiciones de anaerobiosis estricta
+ es esencial. Dichas condiciones se logran aplicando una carga alta de DBO por unidad de volumen, de manera que
+ el OD se consuma rápidamente. Adicionalmente, las lagunas anaerobias tienen profundidades de 3 a 5 m, con el fin
+ de minimizar la penetración de oxígeno desde la superficie y el crecimiento de algas.
+
+
+
+
+La eficiencia de conversión de DBO5 en las lagunas anaerobias oscila entre el 50 y el 70%, el efluente requiere de
+postratamiento, el cual se realiza generalmente a través de una laguna facultativa.
+También se utilizan con frecuencia para el tratamiento de aguas residuales con alta concentración de materia orgánica, como las
+
+procedentes de mataderos, destilerías, etc.
+            Sistema laguna anaerobia: laguna facultativa
+
+La existencia de una etapa anaerobia en un reactor abierto, presenta la posibilidad de generar malos olores, causados
+fundamentalmente por sustancias reducidas de azufre (H2S).
+
+Si el sistema está bien balanceado, la generación de malos olores no es importante. Generalmente, se presentan cuando
+existen sobrecargas o problemas operativos.
+
+Si la concentración de sulfatos en el afluente es menor a 300 mg/L, se considera que la producción de sulfuro de
+hidrógeno H2S no es importante. Adicionalmente, si el pH en la laguna es cercano a la neutralidad el sulfuro, se presenta
+en forma de bisulfuro que es inodoro.
+
+En las aguas residuales con pH bajos, baja alcalinidad, alta acidez y déficit en la corrección del pH (típico de algunas
+aguas residuales industriales), se presenta emisión de malos olores.
+
+De acuerdo con lo anterior, se recomienda localizar los sistemas laguna anaerobia: laguna facultativa a una distancia
+prudente de las zonas urbanizadas.
+             Laguna anaerobia: descripción del proceso
+
+El proceso anaerobio consta de dos etapas:
+
+1. Licuefacción y formación de Ácidos Grasos Volátiles - AGVs
+2. Formación de CH4
+
+En la primera fase, la DBO se transforma en AGVs. En la segunda, la DBO contenida en los AGVs se
+transforma en biogás (CH4+ CO2). El CO2 se disuelve parcialmente en la fase líquida (dependiendo del pH) y
+el CH4 se libera a la atmósfera.
+
+Recordemos que los microorganismos formadores de metano requieren de algunas condiciones ambientales
+especiales:
+
+•   Ausencia de oxígeno (anaerobiosis estricta)
+•   Adecuada temperatura de la fase líquida (T>15°C)
+•   pH adcuado (pH ≈ 7)
+         Laguna anaerobia: criterios de diseño
+
+Los principales parámetros de diseño son:
+
+•   Carga orgánica volumétrica (Lv)
+•   Tiempo de retención hidráulico (TRH)
+•   Profundidad (H)
+•   Geometría de la laguna (relación L/W)
+
+El criterio fundamental de diseño es la carga orgánica volumétrica. De esta manera se define el
+volumen de la laguna (V).
+
+El tiempo de retención hidráulico sirve para verificar el dimensionamiento, teniendo en cuenta el
+tiempo necesario para que los microorganismos formadores de metano se reproduzcan.
+Requisitos diseño lagunas de estabilización anaerobias
+                      RAS 2017
+
+
+                                  2,5 a 6 metros
+              Laguna anaerobia: criterios de diseño
+    Carga orgánica volumétrica
+1
+    La carga orgánica volumétrica a aplicar depende fundamentalmente de la temperatura. La siguiente
+    tabla presenta la variación de las cagas orgánicas aplicables, dependiendo de la temperatura.
+
+
+              Temperatura media del mes        Carga orgánica volumétrica permisible
+                   más frio T (°C)                      Lv (kg DBO5/m3-d)
+                         10-20                                     0,02xT-0,10
+                         20-25                                 0,01xT+0,10
+                          >25                                         0,35
+
+                                        Adaptado de: Mara (1997)
+
+                En la práctica, los valores usuales de carga orgánica volumétrica son:
+
+
+                      Lv = 0,1 a 0,3 kg DBO5 /(m 3  d)
+ Laguna anaerobia: criterios de diseño
+
+El volumen requerido para la alguna anaerobia se calcula de la siguiente manera:
+
+
+
+
+                          V = L / Lv
+Donde:
+
+V = volumen requerido (m3)
+L = carga de DBO5 influente, compuesta por las DBO5 soluble y particulada
+(kg DBO5/d)
+Lv = carga orgánica volumétrica (kg DBO5/(m3.d)
+
+Para agua residual doméstica, el volumen final adoptado es un compromiso entre
+los criterios de Lv y TRH. Para aguas residuales industriales el criterio es Lv.
+               Laguna anaerobia: criterios de diseño
+       Tiempo de retención hidráulico
+  2
+       Para aguas residuales domésticas, el TRH generalmente esta entre:
+
+
+
+                                        TRH = 3 a 6 d
+Sin embargo, existe una tendencia en los últimos años a reducir el tiempo de retención hidráulico en las lagunas
+anaerobias a 2 días, y si es posible a 1 día. Para lograr esto se requiere asegurar un tiempo de retención de la
+biomasa alto y optimizar el contacto entre la biomasa y el agua residual.
+
+Para lograr lo anterior se utiliza un distribución adecuada del influente en el fondo de la laguna, mejorando de
+esta manera el contacto sustrato–biomasa.
+
+En las lagunas anaerobias tradicionales la solución a problemas de olores comienza por el cambio del
+sistema de alimentación, de manera que el agua residual ingrese por el fondo de las mismas.
+     Laguna anaerobia: hidráulica de la laguna
+   Determinación de tiempos de resistencia (DTR)
+     Distribución de tiempos de residencia (DTR)
+     Evaluación del comportamiento hidráulico de las lagunas. Ejemplo: laguna anaerobia PTAR La Ceja
+
+
+
+
+3 tanques en serie; el tiempo de retención real es 0,5, del tiempo de retención teórico. Volumen muerto del 50%.
+       Laguna anaerobia: dispositivo de entrada
+
+                                                Efecto de chorro en la entrada del agua residual a la laguna
+                                                anaerobia, cuyo propósito es mejorar la mezcla sustrato
+                                                biomasa.
+
+
+
+
+Dispositivo de entrada de la laguna anaerobia
+         Foto: Francisco Molina Pérez
+        Laguna anaerobia: criterios de diseño
+
+3   Profundidad
+    La profundidad, en las lagunas anaerobias, toma valores más altos que en los otros tipos de
+    lagunas. Con el fin de garantizar condiciones de anaerobiosis, cuanto más profunda sea la
+    laguna mejor desempeño. Sin embargo, se debe balancear la decisión de la profundidad de la
+    laguna frente a los costos de excavación y a los problemas de nivel freático.
+
+    H = 3,5 a 5,0 m
+    Cuando no existe remoción de arena, previa a la laguna anaerobia, se debe aumentar la
+    profundidad en la zona cercana a la entrada, por lo menos, en 0,5 m, y aumentar el volumen
+    total de la laguna en un 25% para almacenar las arenas que ingresan.
+
+
+4   Geometría (relación L/W)
+
+    L /W = 1a 3
+                 Laguna anaerobia: estimación de
+                      la DBO5 en el efluente
+No existe un modelo matemático disponible para estimar la DBO5 efluente en lagunas anaerobias. Existen
+algunas propuestas de estimar dicha eficiencia en relación con la temperatura de operación. A continuación
+se presenta una de estas propuestas:
+
+
+              Temperatura media del mes más           Eficiencia de remoción de DBO5
+                        frio T (°C)                                 E (%)
+                             10-25                                  2xT+20
+                              >25                                     70
+
+                                         Adaptado de: Mara (1997)
+
+
+En este enfoque, a diferencia de en las lagunas facultativas, la estimación de la DBO5 efluente se
+considera como DBO total, sin diferenciar las componentes soluble y particulada.
+           Laguna anaerobia: acumulación de lodo
+
+La acumulación de lodo en lagunas anaerobias se considera similar a lo que ocurre en lagunas facultativas
+primarias, por lo tanto, es del orden de 0,03 a 0,10 m3/(hab/año). En altura, se considera que la tasa de
+acumulación de lodo está entre 2 a 8 cm/año.
+
+El manejo de lodos en las lagunas anaerobias es diferente que en las lagunas facultativas. En las lagunas
+anaerobias el lodo permanece en digestión durante varios años, haciéndolo muy estabilizado y, generalmente,
+solo requiere deshidratación.
+
+La extracción de lodo se debe realizar:
+
+•   Cuando la capa de lodo supera 1/3 de la altura útil de la laguna
+•   Por remoción anual de cierto volumen, dentro de un estrategia operacional planificada
+
+Si se requiere vaciar la laguna, no se debe remover totalmente el lodo, dado que el lodo contiene la biomasa
+anaerobia requerida para arrancar de nuevo el proceso.
+         Sistema laguna anaerobia: laguna facultativa
+
+Las lagunas facultativas secundarias se diseñan siguiendo el mismo criterio de carga orgánica superficial descrito
+anteriormente. Por lo tanto, los tiempos de retención hidráulico serán menores, teniendo en cuenta la remoción
+previa de DBO en la laguna anaerobia.
+
+La estimación de la concentración efluente de DBO5 se realiza de la misma manera que en lagunas facultativas
+primarias, sin embargo, el coeficiente de remoción de materia orgánica será menor, debido a que en la laguna
+anaerobia se transforma, previamente, la DBO fácilmente biodegradable. Para le modelo de mezcla completa se
+sugieren los siguientes valores del coeficiente k:
+
+
+
+                                  k 20C = 0,25 a 0,32 d                    -1
+
+
+                         Realizar actividad 3. Laguna anaerobia + Laguna facultativa
+                          Lagunas de maduración
+Luego de realizar la transformación de la materia orgánica en el sistema de lagunas anaerobias: lagunas
+facultativas, se requiere eliminar los patógenos del efluente. Este objetivo lo cumplen las lagunas de
+maduración, convirtiéndose en una alternativa económica para la desinfección del efluente.
+                        Lagunas de maduración
+
+Los patógenos viven, normalmente, en el tracto digestivo de los seres humanos y de los animales.
+Dichos patógenos expuestos al medio ambiente, fuera de su hábitat, tienden a morir.
+
+Las lagunas de maduración están enfocadas en suministrar las condiciones ambientales que
+aceleran el proceso de eliminación de los patógenos (bacterias y virus).
+
+Los principales factores ambientales involucrados en la eliminación de patógenos son:
+
+•   Bacterias y virus: radiación solar, pH, temperatura, déficit de alimento y organismos predadores
+
+•   Huevos de helmintos y quistes de protozoos: sedimentación
+                   Lagunas de maduración
+
+Las lagunas de maduración optimizan dichos mecanismos a través de:
+
+•   Profundidad baja
+•   Alta penetración de la radiación solar (radiación ultravioleta)
+•   pH alto, debido a la actividad fotosintética
+•   Alta concentración de OD, lo cual favorece la comunidad aerobia más eficiente, como
+    predador de bacterias
+
+Las eficiencias de remoción de coliformes en las lagunas de maduración son del orden
+del 99,9 al 99,99 %. Se considera que un sistema adecuado de lagunas de maduración
+elimina el 100% de los quistes de protozoarios y de los huevos de helmintos.
+
+Con el fin de aumentar la eficiencia de la desinfección, generalmente, se utilizan, al
+menos, 3 lagunas de maduración en serie o una sola laguna de bafles.
+Requisitos de diseño de lagunas de maduración
+                 RAS 2017
+             Lagunas de maduración: sistema de bafles
+
+
+
+
+Detalle del efecto hidráulico de las cortinas o bafles   Detalle de la cortina o bafle con los componentes:
+                                                           flotador y cable tensor en la parte superior y
+           Adaptado de: TDM Colombia                           anclaje inferior, utilizando una cadena
+                                                                   Adaptado de: TDM Colombia
+            http://www.tdmcolombia.co/
+                                                                    http://www.tdmcolombia.co/
+      Lagunas de maduración: sistema de bafles
+
+
+
+
+Detalle del anclaje de la cortina o bafle               Bafle y cortina de anclaje
+        Fuente: TDM Colombia                           Fuente: Atantic Poly Liners
+                                            http://www.atlanticpolyliners.ca/products-services/
+     http://www.tdmcolombia.co/
+Lagunas de maduración: estimación de la concentración de coliformes en el efluente
+
+Influencia del régimen hidráulico
+
+Tanto el decaimiento de virus y bacterias, como de coliformes, siguen una cinética de primer orden en forma similar a la
+cinética de la DBO. En la siguiente tabla se presentan las cinéticas dependiendo del régimen de flujo.
+
+                             Régimen hidráulico                                               Ecuación
+
+            Flujo pistón                                            N = No.e-Kb.TRH
+
+            Mezcla completa (una laguna)                            N = No/(1+Kb.TRH)
+
+            Mezcla completa (lagunas equivalentes en serie)         N = No/(1+Kb.TRH/n)n
+            Flujo disperso                                          N = No.4.a.e0,5.d/(1+a)2.ea/2.d-(1-a)2.e-a/2d
+                                                                    a = (1+4.Kb.TRH.d)0,5
+
+
+           No = concentración de entrada de coliformes (org/100
+                                                                    TRH = tiempo de retención hidráulico en el sistema (d)
+           mL)
+                                                                    n = número de lagunas en serie
+           N = concentración de salida de coliformes (org/100 mL)
+                                                                    d = número de dispersión (adimensional)
+           Kb = coeficiente de remoción de coliformes (d-1)
+             Lagunas de maduración: estimación de la
+             concentración de coliformes en el efluente
+La remoción de coliformes, al seguir una cinética de primer orden donde la tasa de remoción es proporcional a la
+concentración de ellos en cualquier momento, está muy influenciada por el régimen hidráulico.
+
+Por lo tanto, la eficiencia respecto al régimen hidráulico se presenta de la siguiente manera:
+
+•   Mayor eficiencia = flujo pistón
+•   Eficiencia media = lagunas de mezcla completa en serie
+•   Menor eficiencia = una laguna de mezcla completa
+
+Definiendo el número adimensional Kb.TRH, es posible definir, en forma teórica, la eficiencia de remoción de
+coliformes para las combinaciones de diferentes lagunas de mezcla completa en serie, lo cual se presenta en la
+siguiente tabla:
+
+Kb: coeficiente de remoción de coliformes (d-1)
+TRH: tiempo de retención hidráulico (d)
+Lagunas de maduración: estimación de la concentración de coliformes en el efluente
+
+                 # de lagunas         Volumen relativo (producto adimensional Kb.TRH)
+                    en serie         E = 90%       E = 99 %       E = 99,9 %        E = 99,99
+                        1                9             99             999             9999
+                        2               4,3            18             61               198
+                        3               3,5            11             27               62
+                        4               3,1           8,6             18               36
+                        5               2,9           7,6             15               27
+                     Infinitas
+                                        2,3           4,6             6,9              9,2
+                  (flujo pistón)
+
+                    Esta tabla se puede utilizar para calcular el volumen requerido, donde:
+                                               V = Q.TRH
+         En la tabla se observa que, en la medida que se tiende de flujo a pistón, el volumen requerido
+                          es mucho menor que para una sola laguna de maduración.
+Lagunas de maduración: estimación de la
+concentración de coliformes en el efluente
+
+Una eficiencia del 90% corresponde a la remoción de una unidad logarítmica, 99% a dos
+unidades logarítmicas, 99,9 a tres unidades logarítmicas y 99,99 a cuatro unidades
+logarítmicas, de acuerdo con la siguiente ecuación:
+
+
+Unidades logarímicas removidas = − log10 (100 − E ) / 100
+Las eficiencias del orden de 99,9 %, utilizando un volumen razonable de lagunas, solo se
+consiguen con sistemas de 4 o más lagunas en serie o con lagunas que tengan una
+hidráulica tipo flujo pistón.
+
+Cuando la hidráulica de la laguna obedece a flujo disperso, se debe recordar que en la
+medida que la laguna tenga una relación L/W más alta, tenderá a acercarse al régimen
+hidráulico de flujo a pistón.
+Lagunas de maduración: estimación de la
+concentración de coliformes en el efluente
+             Lagunas de maduración: estimación de la
+             concentración de coliformes en el efluente
+Coeficiente de remoción de coliformes Kb
+
+La literatura reporta gran variabilidad en el valor de dicho coeficiente para flujo disperso, von Sperling (1999), en
+régimen de flujo disperso, propone la siguiente ecuación para estimar el valor de Kb:
+
+
+                       K b (flujo disperso) = 0,917  H −0,877  TRH −0,329
+
+Una ecuación más útil para el diseño, se construye relacionando solo la profundidad con el valor de Kb, a partir de
+datos de 80 lagunas facultativas y de maduración, se obtiene la siguiente ecuación:
+
+
+                               K b (flujo disperso) = 0,542  H −1, 259
+Lagunas de maduración: criterios de diseño
+Profundidad H:
+
+
+H = 0,8 a 1,0 m
+Lagunas de mezcla completa en serie
+
+Mínimo 3 lagunas en serie con TRH, mínimo de 3 días cada laguna
+
+
+
+Laguna con bafles
+
+Mínimo 3 bafles, generando 4 compartimientos
+           Lagunas de estabilización: criterios de
+         impermeabilización del fondo y los taludes
+
+La impermeabilización del fondo y los taludes de las lagunas de estabilización es necesaria cuando la
+permeabilidad del suelo es alta y se pueden presentar problemas como:
+
+•   Contaminación de acuíferos
+
+•   Dificultades para mantener el nivel del agua en las lagunas debido a la infiltración
+
+La impermeabilización se puede hacer a través de una capa de arcilla de mínimo 0,40 m de espesor, o
+utilizando membranas plásticas (geomembranas).
+
+
+El valor del coeficiente de permeabilidad del suelo puede utilizarse como criterio para definir la necesidad o
+no de la impermeabilización, la siguiente tabla lo ilustra:
+Lagunas de estabilización: criterios de impermeabilización del fondo y los taludes
+
+ Valor del coeficiente de permeabilidad                              Recomendación
+                 k (m/s)
+                 > 10-6                   Suelo muy permeable, se debe realizar impermeabilización
+                 > 10-7                   Se puede       producir    alguna     infiltración,   conviene   realizar
+                                          impermeabilización
+                 < 10-8                   El fondo de la laguna está naturalmente sellado, no se requiere
+                                          impermeabilización
+                 < 10-9                   No existe riesgo de contaminación por infiltración
+
+                 > 10-9                   En caso de que se utilice agua subterránea para abastecimiento de
+                                          agua potable se deben realizar estudios hidrogeológicos
+
+            Para conocer más sobre geomembranas para impermeabilización, visita los siguientes sitios:
+                          http://www.tdmcolombia.co/soluciones-impermiabilizacion.php
+
+                           https://pavcowavingeosinteticos.com/geomembrana-hdpe/
+                          https://www.geopolimerossas.com/geomembranas-hdpe.html
+Detalle de impermeabilización de una laguna con membrana plástica
+                      Fuente: TDM Colombia
+
+                   http://www.tdmcolombia.co/
+                       Lagunas facultativas aireadas
+
+
+Introducción
+
+Las lagunas facultativas aireadas se usan cuando se desea tener un sistema predominantemente aerobio,
+utilizando un área menor que una laguna facultativa convencional.
+
+Cuando una laguna facultativa está sobrecargada, se puede utilizar la alternativa de convertirla en una laguna
+facultativa aireada, de esta manera se optimiza el funcionamiento del sistema.
+
+La laguna se denomina facultativa debido a que el nivel de energía introducido por los aireadores es suficiente
+para obtener oxigenación, pero no para lograr la mezcla completa de los sólidos presentes (biomasa y SS). De
+acuerdo con lo anterior, los sólidos sedimentan conformando una capa de lodo en el fondo de la laguna, en la
+cual la materia orgánica se descompone en anaerobiosis.
+         Lagunas facultativas aireadas
+        Alternativas de utilización de las lagunas facultativas aireadas
+
+Como laguna primaria o como laguna secundaria después de una laguna anaerobia.
+ Requisitos diseño
+lagunas facultativas
+     aireadas
+     RAS 2017
+                           Lagunas facultativas aireadas
+Criterios de diseño
+
+•   Tiempo de retención: usualmente se utiliza un rango de 5 a 10 días
+•   Profundidad: generalmente se utiliza una profundidad de 2,5 a 4,0 m
+
+Estimación de la concentración de DBO5 en el efluente
+
+•   En el efluente, la DBO5 esta conformada por:
+
+                                   DBO5 total = DBO5 soluble+ DBO5 particulada
+
+•   Para efectos prácticos el valor de la DBO5 en la entrada, S0, de la laguna, se toma como la DBO5 total que integra
+    los componentes soluble y particulado.
+•   El valor del coeficiente k de remoción de DBO5 utilizado en el modelo de mezcla completa varía entre 0,6 y 0,8 d-1
+
+                                                             S0
+                                                   S=
+                                                        1 + k  TRH
+                       Lagunas facultativas aireadas
+Criterios de diseño
+
+Concentración de DBO5 particulada en el efluente: la concentración de sólidos en el efluente es función del nivel de
+potencia por unidad de volumen aplicado a la laguna por la aireación, el nivel de potencia aplicado se calcula con la
+siguiente ecuación:
+                                                          Donde:
+
+                        = P /V                           ϕ: nivel de potencia (W/m3)
+                                                          P: potencia de aireación (W)
+                                                          V: volumen del reactor (m3)
+
+
+                         Nivel de potencia (W/m3)                       SS (mg/L)
+                                    0,75                                   50
+                                    1,75                                  175
+                                    2,75                                  300
+
+                                      Adaptado de: Eckenfelder (1979)
+                        Lagunas facultativas aireadas
+Criterios de diseño
+
+Los valores de nivel de potencia para las lagunas las facultativas aireadas y las correspondientes concentraciones
+de SS en el efluente son los siguientes:
+
+
+                              Nivel de potencia :  = 0,75 a 1,50 W/m3
+
+                                      SS efluente : 50 a 100 mg/L
+
+                                1 mg SS/L = 0,3 a 0,4 mg DBO5 / L
+
+                   Recuerda la relación concentración de SS y concentración de DBO5
+                      Lagunas facultativas aireadas
+Criterios de diseño
+
+Requerimiento de oxígeno: para calcular el requerimiento de oxígeno se deben descontar la fracción
+de DBO5 soluble no estabilizada (no oxidada) que sale con el efluente y la DBO no ejercida por los sólidos
+presentes en el efluente.
+
+
+
+OR = a  Q  (S0 − S ) / 1.000                 Donde:
+
+                                               OR: requerimiento de oxígeno (kg O2/d
+                                               a: coeficiente que varía entre 0,8 y 1,2 kg O2/kg DBO5
+                                               Q: caudal influente (m3/d)
+                                               So: DBO5 total (soluble+particulada) (g/m3)
+                                               S: DBO5 soluble en el efluente (g/m3)
+             Lagunas facultativas aireadas
+Criterios de diseño
+
+Potencia requerida: a continuación, se presentan los rangos usuales de operación de
+aireadores de alta velocidad:
+
+
+                                         Diámetro de influencia (m)      Diámetro del
+                 Altura normal de
+Potencia (HP)                                                               plato
+                  operación (m)
+                                       Oxigenación            Mezcla     antierosión
+
+     5-10             2,0 - 3,6            45 - 50            14 – 16      2,6 – 3,4
+    15-25             3,0 - 4,3            60 - 80            19 -24       3,4 – 4,8
+    30-50             3,8 - 5,2           85 - 100            27 - 32      4,8 – 6,0
+
+                      Adaptado de: Von Sperling and Chernicharo (2005)
+            Lagunas facultativas aireadas
+
+Criterios de diseño
+
+Diferencia entre el radio de mezcla y el radio de aireación para aireadores mecánicos
+                             Lagunas facultativas aireadas
+Criterios de diseño
+
+• Cálculo de requerimiento de potencia: a condiciones estándar, la eficiencia de los aireadores, generalmente, se
+  presenta en el siguiente rango:
+
+                                        OE estándar = 1,2 a 2,0 kg O 2 /kWh
+
+    A condiciones reales (campo), la capacidad de los aireadores es menor y se encuentra en el siguiente rango:
+
+                                        OE campo = 0,55 a 0,65 OE estándar
+    El requerimiento de potencia se calcula con la siguiente ecuación:
+
+                                                           OR
+                                                P=                       HP=1,34 x kW
+                                                      24  OE campo
+
+•    Acumulación de lodo: 0,03 a 0,08 m3/habitante/año
+Ejemplo de optimización en la PTAR La Ceja
+                          Optimización de la laguna anaerobia
+                               Dos tabiques, zona inicial de
+                          sedimentación y digestión de lodos. Dos
+                             zonas de degradación anaerobia
+
+
+
+
+                     Detalle de la cortina o bafle con los componentes: flotador y cable
+                    tensor en la parte superior y anclaje inferior, utilizando una cadena
+                                         Adaptado de: TDM Colombia
+
+                                        http://www.tdmcolombia.co/
+Optimización laguna facultativa:
+dos zonas, zona de aireación y zona de sedimentación
+
+
+
+
+                                                   Fuente: Pollardwater
+                                              https://www.pollardwater.com/
+Proceso de optimización en la PTAR La Ceja
+
+
+
+
+ Entrada a la laguna anaerobia                              Ventana de la primera cortina de la
+                                                                    laguna anaerobia
+
+                            Fotos: Francisco Molina Pérez
+Proceso de optimización en la PTAR La Ceja
+
+
+
+
+Salida de la laguna anaerobia                                   Pantallas de la laguna anaerobia
+
+
+                                Fotos: Francisco Molina Pérez
+Proceso de optimización en la PTAR La Ceja
+
+
+
+
+Entrada de la laguna facultativa                                   Detalle del anclaje de cortina
+
+                                   Fotos: Francisco Molina Pérez
+                               Referencias bibliográficas
+•   Brito, M., Chernicharo, C. A. L. y Von Sperling, M. (2000). Relação entre as temperaturas da água e do ar em uma
+    lagoa de maturação na região Sudeste do Brasil. In: IX SILUBESA-Simposio Luso-Brasileiro de Engenharia
+    Sanitária e Ambiental, Porto Seguro-B. 9 al 14 Abril del 2000. Anais electrónicos.
+
+•   Colombia. Ministerio de Vivienda, Ciudad y Territorio. (8 de junio de 2017). Reglamento Técnico para el Sector
+    Agua Potable y Saneamiento Básico (RAS). Resolución 0330 de 2017. https://bit.ly/3bU56Hc
+
+•   Eckenfelder Jr., W.W. (1980). Principles of water quality management. CBI.
+
+•   Mara, D. D. (1997). Design manual for waste stabilization ponds in India. Lagoon Technology International Ltd.
+    Leeds.
+
+•   Mara, D.D. (1995). Waste stabilization ponds: effluent quality requirements and implications for process design. En:
+    International Specialist Conference. Waste stabilization ponds: technology and applications. João Pessoa.
+                              Referencias bibliográficas
+•   Power and Water Corporation.         (2011).   Waste   Stabilisation   Pond   Desing     Manual.   Power   Water.
+    https://bit.ly/2GHo49S
+
+•   Van Haandel, A. C., Lettinga, G. (1994). Tratamento anaeróbio de esgotos. Um manual para regiões de clima
+    quente.
+
+•   Vidal, W. (1983). Aperfeiçoamentos hidráulicos no projeto de lagoas de estabilização visando redução da área de
+    tratamento: uma aplicação prática. En: Congresso Brasileiro de Engenharia Sanitária e Ambiental, 12, Camboriú,
+    20-25 novembro 1983. ABES.
+
+•   Von Sperling, M. (1999). Performance evaluation and mathematical modelling of coliform die-off in tropical and
+    subtropical waste stabilization ponds. Water Research, 33(6), 1435-1448.
+
+•   Von Sperling, M. y Lemos Chernicharo, C. A. (2005). Biological wastewater treatment in warm climate regions.
+    IWA. https://bit.ly/3iokzU0
+
+•   Yañez, F. (1993). Lagunas de estabilización. Teoria, diseño y mantenimiento. Monsalve.
+
